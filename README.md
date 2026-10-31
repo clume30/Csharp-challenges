@@ -33,7 +33,7 @@ You can explore my repositories to see what I'm building and learning.
 ## 📫 Connect With Me
 
 -   **GitHub:** [Your GitHub profile](https://github.com/clume30)
--   **Email:** [Your email address](mailto:umeiheukwulawrence@gmail.com)
+-   **Email:** [Your email address](umeiheukwulawrence@gmail.com)
 
 ------------------------------------------------------------------------
 
