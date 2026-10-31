@@ -1,4 +1,4 @@
-# Hi, I'm CLUME WINTER 👋
+# Hi, I'm UMEIHEUKWU CHIDUBEM 👋
 
 ### Backend Developer \| Python & Flask
 
@@ -32,8 +32,8 @@ You can explore my repositories to see what I'm building and learning.
 
 ## 📫 Connect With Me
 
--   **GitHub:** [Your GitHub profile](https://github.com/your-username)
--   **Email:** [Your email address](mailto:your-email@example.com)
+-   **GitHub:** [Your GitHub profile](https://github.com/clume30)
+-   **Email:** [Your email address](mailto:umeiheukwulawrence@gmail.com)
 
 ------------------------------------------------------------------------
 
